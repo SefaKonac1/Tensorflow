@@ -4,5 +4,6 @@
 4) https://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
 5) http://ctakes.apache.org/whycTAKES.html
 6) http://nactem.ac.uk/event_slides/Ananiadou221009.pdf
+7) https://clinicaltrials.gov/ct2/show/NCT03300856
 # Tensorflow
 
