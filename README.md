@@ -3,5 +3,6 @@
 3) https://proteininformationresource.org/pirwww/about/doc/2004_BioTagger.pdf
 4) https://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
 5) http://ctakes.apache.org/whycTAKES.html
+6) http://nactem.ac.uk/event_slides/Ananiadou221009.pdf
 # Tensorflow
 
